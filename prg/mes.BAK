@@ -1,0 +1,43 @@
+PARAMETERS nroMes
+
+mes = ''
+
+DO CASE
+	CASE nroMes = 1
+	   mes = 'enero'
+	   
+	CASE nroMes = 1
+	   mes = 'febrero'
+	   
+	CASE nroMes = 1
+	   mes = 'marzo'
+	   
+	CASE nroMes = 1
+	   mes = 'enero'
+	   
+	CASE nroMes = 1
+	   mes = 'enero'
+	
+	CASE nroMes = 1
+	   mes = 'enero'
+	   
+	CASE nroMes = 1
+	   mes = 'enero'
+	   
+	CASE nroMes = 1
+	   mes = 'enero'
+	   
+	CASE nroMes = 1
+	   mes = 'enero'
+	   
+	CASE nroMes = 1
+	   mes = 'enero'
+	
+	CASE nroMes = 1
+	   mes = 'enero'
+	   
+	CASE nroMes = 1
+	   mes = 'enero'
+ENDCASE
+
+RETURN mes 
